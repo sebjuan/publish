@@ -1,6 +1,7 @@
 jupyter
 notebook
 pandas
+numpy
 plotly
 scikit-learn
 matplotlib
